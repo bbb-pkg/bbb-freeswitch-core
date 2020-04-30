@@ -98,9 +98,9 @@ cc7f6a6c5d699d0a38e844961700fb8f  opt/freeswitch/etc/freeswitch/autoload_configs
 0ac2af51a5ab03d606d4b667066e6bdf  opt/freeswitch/etc/freeswitch/autoload_configs/xml_scgi.conf.xml
 b0317c54a9004c73a65d0a59f33d5417  opt/freeswitch/etc/freeswitch/autoload_configs/zeroconf.conf.xml
 cffd39f8e12ea0395014fc1b892ac3d4  opt/freeswitch/etc/freeswitch/chatplan/default.xml
-461c85393fe3a85e40c0afb82d47e122  opt/freeswitch/etc/freeswitch/dialplan/default/bbb_conference.xml
+45a01e5c8cb6b7a29d9690b85f52053e  opt/freeswitch/etc/freeswitch/dialplan/default/bbb_conference.xml
 86ac701fd711deaec6de85f5018815f8  opt/freeswitch/etc/freeswitch/dialplan/default/bbb_echo_test.xml
-bfe6a89ea97d8ccc1cf96146f3095025  opt/freeswitch/etc/freeswitch/dialplan/default/bbb_echo_to_conference.xml
+be7c781997da2486d30b3637a32a6311  opt/freeswitch/etc/freeswitch/dialplan/default/bbb_echo_to_conference.xml
 bf674a6fda7be09a1d81c991d722fe54  opt/freeswitch/etc/freeswitch/dialplan/default.xml
 6c76b452fa1a4db30f76a6fed8e5a233  opt/freeswitch/etc/freeswitch/dialplan/features.xml
 c8b2e5c1d18ddbfacf62b68721ff9d7b  opt/freeswitch/etc/freeswitch/dialplan/public/bbb_sip.xml
@@ -416,5 +416,5 @@ aa25fa90ff07e1dd37ecedd91908a496  opt/freeswitch/share/freeswitch/htdocs/portal/
 f11e41bdc8a118ea03b32fa4d9b2eb5c  opt/freeswitch/share/freeswitch/htdocs/slimtest.htm
 d210b2c08b6dbf35ba6099fcbbf49b8b  opt/freeswitch/var/lib/freeswitch/images/default-avatar.png
 e916e54794a0ac7593903c343b99b0db  opt/freeswitch/var/lib/freeswitch/images/default-mute.png
-4865ca5eb9c410d4b39b18965de2f654  usr/share/doc/bbb-freeswitch-core/changelog.gz
+57fd18fa39cb1139e10feacc45b41278  usr/share/doc/bbb-freeswitch-core/changelog.gz
 85eace8f35ade18104b9ac9630dcc4fe  var/freeswitch/meetings/readme.txt
